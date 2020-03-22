@@ -25,7 +25,7 @@ SECRET_KEY = 'w)ui6t4f3zi7@r&%k+3qc$&d3ugm&5ta8ls)3n+^*72me#5m0c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'django.athena-designs.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'django.athena-designs.com', 'wormcrew.pythonanywhere.com']
 
 
 # Application definition
